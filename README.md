@@ -59,9 +59,10 @@ It supports both **file upload** and **file download** functionalities with thre
 
 ### **👨‍💻 Author**
 
-**Aravinthvasan S**
-B.Tech — Electronics & Communication Engineering
-SASTRA Deemed University
+**Aravinthvasan S**  
+B.Tech Electronics & Communication Engineering (Cyber Physical Systems)  
+SASTRA Deemed University  
+
 🔗 [GitHub Profile](https://github.com/av1429)
 ---
 
